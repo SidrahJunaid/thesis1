@@ -1,0 +1,288 @@
+acorn squash,1
+alfalfa,1
+artichoke,1
+arugula,1
+asparagus,1
+avocado,1
+bamboo shoots,1
+basil,1
+beans,1
+beets,1
+bell pepper,1
+black eyed peas,1
+broccoli,1
+brussels sprouts,1
+cabbage,1
+capers,1
+carrot,1
+cauliflower,1
+celeriac,1
+celery,1
+chard,1
+peas,1
+chick peas,1
+chinese cabbage,1
+chives,1
+collard greens,1
+cress,1
+cucumber,1
+daikon,1
+dandelion greens,1
+eggplant,1
+endive,1
+fava bean,1
+fennel,1
+garlic,1
+ginger,1
+gourd,1
+greenbean,1
+greens,1
+hot chile peppers,1
+iceberg lettuce,1
+jicama,1
+kale,1
+kohlrabi,1
+leek,1
+lentils,1
+lettuce,1
+lima bean,1
+maize,1
+mung bean,1
+mushroom,1
+mustard greens,1
+okra,1
+olive,1
+onion,1
+parsley,1
+parsnip,1
+pattypan squash,1
+pea,1
+peapod,1
+peanut,1
+peppers,1
+pickle,1
+potato,0
+pumpkin,1
+radicchio,1
+radish,1
+rhubarb,1
+rocket,1
+romaine,1
+rutabaga,1
+salad,1
+salsa,1
+scallion,1
+seaweed,1
+shallot,1
+sorrel,1
+soybean,1
+spinach,1
+sprouts,1
+salsify,1
+spuds,1
+squash,1
+string bean,1
+succotash,1
+sweet potato,1
+swiss chard,1
+taro,1
+tomatillo,1
+tomato,1
+tuber,1
+turnip,1
+vegetable,1
+wasabi,1
+water chestnut,1
+watercress,1
+yam,1
+zucchini,1
+apple,1
+apricot,1
+banana,1
+berry,1
+blackberry,1
+blood orange,1
+blueberry,1
+boysenberry,1
+breadfruit,1
+cantaloupe,1
+cherry,1
+citron,1
+citrus,1
+coconut,1
+crabapple,1
+cranberry,1
+date,1
+dragonfruit,1
+durian,1
+elderberry,1
+fig,1
+grape,1
+grapefruit,1
+guava,1
+honeydew,1
+jackfruit,1
+kiwi,1
+kumquat,1
+lemon,1
+lime,1
+lingonberry,1
+loquat,1
+lychee,1
+scalloped potatoes,1
+baked sweet potatoes,1
+vegetable wrap,1
+tofu,1
+black beans patty,1
+sautéed spinach and tomatoes,1
+roasted potatoes,1
+green beans potatoes,1
+smoked turkey,1
+corn pudding,1
+fruit salsa,1
+teriyaki sauce,1
+veggie pizza,1
+tuna and noodles,1
+vegetable rice,1
+roasted tilapia,1
+roasted salmon,1
+beef stew,1
+bean burrito bowl,1
+chicken tetrazzini,1
+sweet and sour pork,1
+black beans salad,1
+lentil,1
+pico del gallo,1
+black beans and rice,1
+yucca,1
+vegetable soup,1
+baked lentil,1
+broiled tomatoes and cheese,1
+mandarin orange,1
+mango,1
+marionberry,1
+melon,1
+mulberry,1
+nectarine,1
+orange,1
+papaya,1
+passion fruit,1
+peach,1
+pear,1
+persimmon,1
+pineapple,1
+plantain,1
+plum,1
+pluot,1
+pomegranite,1
+pomelo,1
+capsicum,1
+prune,1
+spring onion,1
+quince,1
+raisin,1
+raspberry,1
+star fruit,1
+strawberry,1
+tangelo,1
+tangerine,1
+ugli fruit,1
+guacamole,1
+green onion omelet,1
+raisin muffin,1
+pumpkin soup,1
+garden pasta salad,1
+tomato salsa,1
+baked fish,1
+chicken casserole,1
+chicken salad,1
+veggie burger,1
+meatloaf,1
+watermelon,1
+fried rice,0
+spring roll,0
+bacon,0
+cake,0
+cheese,0
+cookie,0
+donut,0
+energy drink,0
+fruit drink,0
+hot dog,0
+pastry,0
+pizza,0
+soda,0
+beer,0
+sausage,0
+margarine,0
+fried chicken,0
+fish and chip,0
+fried fish,0
+french fries,0
+potato,0
+churros,0
+pancake,0
+microwave popcorns,0
+ketchup,0
+onion rings,0
+bread,0
+vegetable oil,0
+flying gorilla drink,0
+chocolate cake,0
+bacon,0
+nuggets,0
+cheese curd bacon burger with fries,0
+cheeseburger omelette with pancakes,0
+ultimate smokehouse combo,0
+fried steak,0
+chicken tender,0
+thai curry boneless wings,0
+fettuccine weesie,0
+bacon ranch beef quesadilla,0
+hash browns,0
+pad thai shrimp,0
+macaroni grill chicken parmesan,0
+crispy chicken mac ‘n cheese,0
+bbq’n burger,0
+chicken pot pie,0
+jalapeño thickburger,0
+arby’s,0
+baskin robins,0
+bonjangles,0
+boston market,0
+burger king,0
+captain ds,0
+carls jr.,0
+checkers,0
+chick-fil-a,0
+chipotle,0
+churchs chicken,0
+cicis pizza,0
+culvers,0
+dairy queen,0
+del taco,0
+dominos pizza,0
+dunkin donuts,0
+einstein bros. bagels,0
+el pollo loco,0
+five guys burger & fries,0
+hardees,0
+in-n-out burger,0
+jack in the box,0
+jasons deli,0
+jimmy johns,0
+kfc,0
+krispy kreme,0
+krystal,0
+little caesars,0
+long john silvers,0
+mcdonalds,0
+panda express,0
+cream gravy,0
+cheese sauce,0
+dessert,0
+fried sweet apples,0
+wine,0
+milkshake,0
+chips,0
+pepperoni,0
