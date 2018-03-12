@@ -1,0 +1,147 @@
+carrot,1
+artichoke,1
+asparagus,1
+celery,1
+peas,1
+spinach,1
+cauliflower,1
+broccoli,1
+cabbage,1
+tomato,1
+eggplant,1
+orange,1
+cherries,1
+apples,1
+bananas,1
+pineapple,1
+pear,1
+plum,1
+apricot,1
+grapefruit,1
+peach,1
+cherry,1
+scalloped potatoes,1
+baked sweet potatoes,1
+vegetable wrap,1
+tofu,1
+black beans patty,1
+sautéed spinach and tomatoes,1
+roasted potatoes,1
+green beans potatoes,1
+smoked turkey,1
+corn pudding,1
+fruit salsa,1
+teriyaki sauce,1
+veggie pizza,1
+tuna and noodles,1
+vegetable rice,1
+roasted tilapia,1
+roasted salmon,1
+beef stew,1
+bean burrito bowl,1
+chicken tetrazzini,1
+sweet and sour pork,1
+black beans salad,1
+lentil,1
+pico del gallo,1
+black beans and Rice,1
+yucca,1
+vegetable soup,1
+baked lentil,1
+broiled tomatoes and cheese,1
+grapes,1
+lettuce,1
+mushroom,1
+carrot,1
+capsicum,1
+spring onion,1
+guacamole,1
+green onion omelet,1
+raisin muffin,1
+pumpkin soup,1
+garden pasta salad,1
+tomato salsa,1
+baked fish,1
+chicken casserole,1
+chicken salad,1
+veggie burger,1
+meatloaf,1
+bacon,0
+cake,0
+cheese,0
+cookie,0
+donut,0
+energy drink,0
+fruit drink,0
+hot dog,0
+pastry,0
+pizza,0
+soda,0
+beer,0
+sausage,0
+margarine,0
+fried chicken,0
+fish and chip,0
+fried fish,0
+french fries,0
+potato,0
+pancake,0
+microwave popcorns,0
+ketchup,0
+onion rings,0
+bread,0
+vegetable oil,0
+flying gorilla drink,0
+chocolate cake,0
+cheese curd bacon burger with fries,0
+cheeseburger omelette with pancakes,0
+ultimate smokehouse combo,0
+fried steak,0
+chicken tender,0
+thai curry boneless wings,0
+fettuccine weesie,0
+bacon ranch beef quesadilla,0
+hash browns,0
+pad thai shrimp,0
+macaroni grill chicken parmesan,0
+crispy chicken mac ‘n cheese,0
+bbq’n burger,0
+chicken pot pie,0
+jalapeño thickburger,0
+arby’s,0
+baskin robins,0
+bonjangles,0
+boston market,0
+burger king,0
+captain ds,0
+carls jr.,0
+checkers,0
+chick-fil-a,0
+chipotle,0
+churchs chicken,0
+cicis pizza,0
+culvers,0
+dairy queen,0
+del taco,0
+dominos pizza,0
+dunkin donuts,0
+einstein bros. bagels,0
+el pollo loco,0
+five guys burger & fries,0
+hardees,0
+in-n-out burger,0
+jack in the box,0
+jasons deli,0
+jimmy johns,0
+kfc,0
+krispy kreme,0
+krystal,0
+little caesars,0
+long john silvers,0
+mcdonalds,0
+panda Express,0
+cream gravy,0
+cheese sauce,0
+dessert,0
+fried sweet apples,0
+wine,0

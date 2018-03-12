@@ -1,0 +1,1040 @@
+apple, heart attack, 0
+apple, diabetes, 2
+apple, blood pressure, 0
+apple, heart disease, 0
+apple, breast cancer, 0
+apple, obesity, 2
+apple, overweight, 0
+apple,  HIV , 0
+apple, heartburn, 0
+apple, lung cancer, 0
+alfalfa, heart attack, 0
+alfalfa, diabetes, 0
+alfalfa, blood pressure, 0
+alfalfa, heart disease, 0
+alfalfa, breast cancer, 0
+alfalfa, obesity, 0
+alfalfa, overweight, 0
+alfalfa,  HIV , 0
+alfalfa, heartburn, 0
+alfalfa, lung cancer, 0
+arbys, heart attack, 0
+arbys, diabetes, 0
+arbys, blood pressure, 0
+arbys, heart disease, 0
+arbys, breast cancer, 0
+arbys, obesity, 0
+arbys, overweight, 0
+arbys,  HIV , 0
+arbys, heartburn, 0
+arbys, lung cancer, 0
+asparagus, heart attack, 0
+asparagus, diabetes, 0
+asparagus, blood pressure, 1
+asparagus, heart disease, 0
+asparagus, breast cancer, 0
+asparagus, obesity, 0
+asparagus, overweight, 0
+asparagus,  HIV , 0
+asparagus, heartburn, 0
+asparagus, lung cancer, 0
+avocado, heart attack, 0
+avocado, diabetes, 1
+avocado, blood pressure, 0
+avocado, heart disease, 0
+avocado, breast cancer, 0
+avocado, obesity, 1
+avocado, overweight, 0
+avocado,  HIV , 0
+avocado, heartburn, 0
+avocado, lung cancer, 0
+bacon, heart attack, 0
+bacon, diabetes, 0
+bacon, blood pressure, 0
+bacon, heart disease, 0
+bacon, breast cancer, 0
+bacon, obesity, 1
+bacon, overweight, 1
+bacon,  HIV , 0
+bacon, heartburn, 0
+bacon, lung cancer, 0
+banana, heart attack, 0
+banana, diabetes, 0
+banana, blood pressure, 0
+banana, heart disease, 0
+banana, breast cancer, 0
+banana, obesity, 0
+banana, overweight, 0
+banana,  HIV , 0
+banana, heartburn, 0
+banana, lung cancer, 0
+bbq, heart attack, 0
+bbq, diabetes, 0
+bbq, blood pressure, 0
+bbq, heart disease, 0
+bbq, breast cancer, 0
+bbq, obesity, 0
+bbq, overweight, 0
+bbq,  HIV , 0
+bbq, heartburn, 0
+bbq, lung cancer, 0
+beans, heart attack, 0
+beans, diabetes, 3
+beans, blood pressure, 0
+beans, heart disease, 0
+beans, breast cancer, 1
+beans, obesity, 3
+beans, overweight, 1
+beans,  HIV , 0
+beans, heartburn, 0
+beans, lung cancer, 0
+beer, heart attack, 0
+beer, diabetes, 2
+beer, blood pressure, 0
+beer, heart disease, 0
+beer, breast cancer, 0
+beer, obesity, 0
+beer, overweight, 0
+beer,  HIV , 0
+beer, heartburn, 0
+beer, lung cancer, 0
+beets, heart attack, 0
+beets, diabetes, 0
+beets, blood pressure, 0
+beets, heart disease, 0
+beets, breast cancer, 0
+beets, obesity, 0
+beets, overweight, 0
+beets,  HIV , 0
+beets, heartburn, 0
+beets, lung cancer, 0
+blueberry, heart attack, 0
+blueberry, diabetes, 1
+blueberry, blood pressure, 1
+blueberry, heart disease, 0
+blueberry, breast cancer, 0
+blueberry, obesity, 2
+blueberry, overweight, 0
+blueberry,  HIV , 0
+blueberry, heartburn, 0
+blueberry, lung cancer, 0
+bread, heart attack, 0
+bread, diabetes, 3
+bread, blood pressure, 0
+bread, heart disease, 0
+bread, breast cancer, 0
+bread, obesity, 5
+bread, overweight, 2
+bread,  HIV , 0
+bread, heartburn, 0
+bread, lung cancer, 0
+broccoli, heart attack, 0
+broccoli, diabetes, 0
+broccoli, blood pressure, 0
+broccoli, heart disease, 1
+broccoli, breast cancer, 0
+broccoli, obesity, 0
+broccoli, overweight, 0
+broccoli,  HIV , 0
+broccoli, heartburn, 0
+broccoli, lung cancer, 0
+cabbage, heart attack, 0
+cabbage, diabetes, 0
+cabbage, blood pressure, 0
+cabbage, heart disease, 1
+cabbage, breast cancer, 0
+cabbage, obesity, 0
+cabbage, overweight, 0
+cabbage,  HIV , 0
+cabbage, heartburn, 0
+cabbage, lung cancer, 0
+cake, heart attack, 0
+cake, diabetes, 2
+cake, blood pressure, 0
+cake, heart disease, 1
+cake, breast cancer, 0
+cake, obesity, 0
+cake, overweight, 0
+cake,  HIV , 0
+cake, heartburn, 0
+cake, lung cancer, 0
+cantaloupe, heart attack, 0
+cantaloupe, diabetes, 0
+cantaloupe, blood pressure, 0
+cantaloupe, heart disease, 0
+cantaloupe, breast cancer, 0
+cantaloupe, obesity, 0
+cantaloupe, overweight, 0
+cantaloupe,  HIV , 0
+cantaloupe, heartburn, 0
+cantaloupe, lung cancer, 0
+carnitas, heart attack, 0
+carnitas, diabetes, 0
+carnitas, blood pressure, 0
+carnitas, heart disease, 0
+carnitas, breast cancer, 0
+carnitas, obesity, 0
+carnitas, overweight, 0
+carnitas,  HIV , 0
+carnitas, heartburn, 0
+carnitas, lung cancer, 0
+carrot, heart attack, 0
+carrot, diabetes, 0
+carrot, blood pressure, 0
+carrot, heart disease, 0
+carrot, breast cancer, 0
+carrot, obesity, 0
+carrot, overweight, 0
+carrot,  HIV , 0
+carrot, heartburn, 0
+carrot, lung cancer, 0
+cauliflower, heart attack, 0
+cauliflower, diabetes, 0
+cauliflower, blood pressure, 0
+cauliflower, heart disease, 0
+cauliflower, breast cancer, 0
+cauliflower, obesity, 0
+cauliflower, overweight, 0
+cauliflower,  HIV , 0
+cauliflower, heartburn, 0
+cauliflower, lung cancer, 0
+celery, heart attack, 0
+celery, diabetes, 1
+celery, blood pressure, 0
+celery, heart disease, 0
+celery, breast cancer, 0
+celery, obesity, 0
+celery, overweight, 0
+celery,  HIV , 0
+celery, heartburn, 0
+celery, lung cancer, 0
+cherry, heart attack, 0
+cherry, diabetes, 1
+cherry, blood pressure, 0
+cherry, heart disease, 1
+cherry, breast cancer, 0
+cherry, obesity, 1
+cherry, overweight, 0
+cherry,  HIV , 0
+cherry, heartburn, 0
+cherry, lung cancer, 0
+checkers, heart attack, 0
+checkers, diabetes, 0
+checkers, blood pressure, 0
+checkers, heart disease, 0
+checkers, breast cancer, 0
+checkers, obesity, 0
+checkers, overweight, 0
+checkers,  HIV , 0
+checkers, heartburn, 0
+checkers, lung cancer, 0
+chips, heart attack, 0
+chips, diabetes, 0
+chips, blood pressure, 0
+chips, heart disease, 0
+chips, breast cancer, 0
+chips, obesity, 1
+chips, overweight, 0
+chips,  HIV , 0
+chips, heartburn, 0
+chips, lung cancer, 0
+chipotle, heart attack, 0
+chipotle, diabetes, 0
+chipotle, blood pressure, 0
+chipotle, heart disease, 0
+chipotle, breast cancer, 0
+chipotle, obesity, 0
+chipotle, overweight, 0
+chipotle,  HIV , 0
+chipotle, heartburn, 0
+chipotle, lung cancer, 0
+chives, heart attack, 0
+chives, diabetes, 0
+chives, blood pressure, 0
+chives, heart disease, 0
+chives, breast cancer, 0
+chives, obesity, 0
+chives, overweight, 0
+chives,  HIV , 0
+chives, heartburn, 0
+chives, lung cancer, 0
+coconut, heart attack, 0
+coconut, diabetes, 0
+coconut, blood pressure, 0
+coconut, heart disease, 0
+coconut, breast cancer, 0
+coconut, obesity, 2
+coconut, overweight, 1
+coconut,  HIV , 0
+coconut, heartburn, 0
+coconut, lung cancer, 0
+coffee, heart attack, 0
+coffee, diabetes, 2
+coffee, blood pressure, 2
+coffee, heart disease, 1
+coffee, breast cancer, 2
+coffee, obesity, 1
+coffee, overweight, 1
+coffee,  HIV , 0
+coffee, heartburn, 0
+coffee, lung cancer, 0
+cookie, heart attack, 0
+cookie, diabetes, 1
+cookie, blood pressure, 0
+cookie, heart disease, 0
+cookie, breast cancer, 0
+cookie, obesity, 0
+cookie, overweight, 2
+cookie,  HIV , 0
+cookie, heartburn, 0
+cookie, lung cancer, 0
+cranberry, heart attack, 0
+cranberry, diabetes, 0
+cranberry, blood pressure, 0
+cranberry, heart disease, 0
+cranberry, breast cancer, 0
+cranberry, obesity, 0
+cranberry, overweight, 0
+cranberry,  HIV , 0
+cranberry, heartburn, 0
+cranberry, lung cancer, 0
+cucumber, heart attack, 0
+cucumber, diabetes, 2
+cucumber, blood pressure, 0
+cucumber, heart disease, 1
+cucumber, breast cancer, 0
+cucumber, obesity, 2
+cucumber, overweight, 0
+cucumber,  HIV , 0
+cucumber, heartburn, 0
+cucumber, lung cancer, 0
+dates, heart attack, 0
+dates, diabetes, 10
+dates, blood pressure, 0
+dates, heart disease, 2
+dates, breast cancer, 0
+dates, obesity, 6
+dates, overweight, 0
+dates,  HIV , 0
+dates, heartburn, 0
+dates, lung cancer, 0
+dessert, heart attack, 0
+dessert, diabetes, 1
+dessert, blood pressure, 0
+dessert, heart disease, 0
+dessert, breast cancer, 0
+dessert, obesity, 1
+dessert, overweight, 0
+dessert,  HIV , 0
+dessert, heartburn, 0
+dessert, lung cancer, 0
+donut, heart attack, 0
+donut, diabetes, 0
+donut, blood pressure, 0
+donut, heart disease, 0
+donut, breast cancer, 0
+donut, obesity, 1
+donut, overweight, 0
+donut,  HIV , 1
+donut, heartburn, 0
+donut, lung cancer, 0
+egg, heart attack, 0
+egg, diabetes, 7
+egg, blood pressure, 0
+egg, heart disease, 0
+egg, breast cancer, 0
+egg, obesity, 3
+egg, overweight, 0
+egg,  HIV , 0
+egg, heartburn, 0
+egg, lung cancer, 0
+elderberry, heart attack, 0
+elderberry, diabetes, 0
+elderberry, blood pressure, 0
+elderberry, heart disease, 0
+elderberry, breast cancer, 0
+elderberry, obesity, 0
+elderberry, overweight, 0
+elderberry,  HIV , 0
+elderberry, heartburn, 0
+elderberry, lung cancer, 0
+figs, heart attack, 0
+figs, diabetes, 0
+figs, blood pressure, 0
+figs, heart disease, 0
+figs, breast cancer, 0
+figs, obesity, 0
+figs, overweight, 0
+figs,  HIV , 0
+figs, heartburn, 0
+figs, lung cancer, 0
+garlic, heart attack, 0
+garlic, diabetes, 1
+garlic, blood pressure, 1
+garlic, heart disease, 0
+garlic, breast cancer, 1
+garlic, obesity, 2
+garlic, overweight, 0
+garlic,  HIV , 0
+garlic, heartburn, 0
+garlic, lung cancer, 0
+ginger, heart attack, 0
+ginger, diabetes, 2
+ginger, blood pressure, 0
+ginger, heart disease, 0
+ginger, breast cancer, 0
+ginger, obesity, 2
+ginger, overweight, 0
+ginger,  HIV , 0
+ginger, heartburn, 0
+ginger, lung cancer, 0
+gourd, heart attack, 0
+gourd, diabetes, 2
+gourd, blood pressure, 0
+gourd, heart disease, 0
+gourd, breast cancer, 0
+gourd, obesity, 2
+gourd, overweight, 0
+gourd,  HIV , 0
+gourd, heartburn, 0
+gourd, lung cancer, 0
+grape, heart attack, 0
+grape, diabetes, 2
+grape, blood pressure, 0
+grape, heart disease, 0
+grape, breast cancer, 0
+grape, obesity, 6
+grape, overweight, 0
+grape,  HIV , 0
+grape, heartburn, 0
+grape, lung cancer, 0
+grapefruit, heart attack, 0
+grapefruit, diabetes, 0
+grapefruit, blood pressure, 0
+grapefruit, heart disease, 0
+grapefruit, breast cancer, 0
+grapefruit, obesity, 0
+grapefruit, overweight, 0
+grapefruit,  HIV , 0
+grapefruit, heartburn, 0
+grapefruit, lung cancer, 0
+greens, heart attack, 0
+greens, diabetes, 0
+greens, blood pressure, 0
+greens, heart disease, 1
+greens, breast cancer, 0
+greens, obesity, 0
+greens, overweight, 0
+greens,  HIV , 0
+greens, heartburn, 0
+greens, lung cancer, 0
+grits, heart attack, 0
+grits, diabetes, 0
+grits, blood pressure, 0
+grits, heart disease, 0
+grits, breast cancer, 0
+grits, obesity, 0
+grits, overweight, 0
+grits,  HIV , 0
+grits, heartburn, 0
+grits, lung cancer, 0
+guava, heart attack, 0
+guava, diabetes, 0
+guava, blood pressure, 0
+guava, heart disease, 0
+guava, breast cancer, 0
+guava, obesity, 0
+guava, overweight, 0
+guava,  HIV , 0
+guava, heartburn, 0
+guava, lung cancer, 0
+habanero, heart attack, 0
+habanero, diabetes, 0
+habanero, blood pressure, 0
+habanero, heart disease, 0
+habanero, breast cancer, 0
+habanero, obesity, 0
+habanero, overweight, 0
+habanero,  HIV , 0
+habanero, heartburn, 0
+habanero, lung cancer, 0
+jambalaya, heart attack, 0
+jambalaya, diabetes, 0
+jambalaya, blood pressure, 0
+jambalaya, heart disease, 0
+jambalaya, breast cancer, 0
+jambalaya, obesity, 0
+jambalaya, overweight, 0
+jambalaya,  HIV , 0
+jambalaya, heartburn, 0
+jambalaya, lung cancer, 0
+ketchup, heart attack, 0
+ketchup, diabetes, 0
+ketchup, blood pressure, 0
+ketchup, heart disease, 0
+ketchup, breast cancer, 0
+ketchup, obesity, 0
+ketchup, overweight, 0
+ketchup,  HIV , 0
+ketchup, heartburn, 0
+ketchup, lung cancer, 0
+kfc, heart attack, 0
+kfc, diabetes, 0
+kfc, blood pressure, 0
+kfc, heart disease, 0
+kfc, breast cancer, 0
+kfc, obesity, 0
+kfc, overweight, 0
+kfc,  HIV , 0
+kfc, heartburn, 0
+kfc, lung cancer, 0
+kiwi, heart attack, 0
+kiwi, diabetes, 2
+kiwi, blood pressure, 0
+kiwi, heart disease, 0
+kiwi, breast cancer, 0
+kiwi, obesity, 1
+kiwi, overweight, 0
+kiwi,  HIV , 0
+kiwi, heartburn, 0
+kiwi, lung cancer, 0
+lemon, heart attack, 0
+lemon, diabetes, 0
+lemon, blood pressure, 0
+lemon, heart disease, 0
+lemon, breast cancer, 0
+lemon, obesity, 1
+lemon, overweight, 0
+lemon,  HIV , 0
+lemon, heartburn, 0
+lemon, lung cancer, 0
+lentils, heart attack, 0
+lentils, diabetes, 2
+lentils, blood pressure, 0
+lentils, heart disease, 1
+lentils, breast cancer, 0
+lentils, obesity, 1
+lentils, overweight, 0
+lentils,  HIV , 0
+lentils, heartburn, 0
+lentils, lung cancer, 0
+lettuce, heart attack, 0
+lettuce, diabetes, 0
+lettuce, blood pressure, 0
+lettuce, heart disease, 0
+lettuce, breast cancer, 0
+lettuce, obesity, 0
+lettuce, overweight, 0
+lettuce,  HIV , 0
+lettuce, heartburn, 0
+lettuce, lung cancer, 0
+lime, heart attack, 0
+lime, diabetes, 0
+lime, blood pressure, 0
+lime, heart disease, 0
+lime, breast cancer, 0
+lime, obesity, 1
+lime, overweight, 0
+lime,  HIV , 0
+lime, heartburn, 0
+lime, lung cancer, 0
+lobster, heart attack, 0
+lobster, diabetes, 0
+lobster, blood pressure, 0
+lobster, heart disease, 0
+lobster, breast cancer, 0
+lobster, obesity, 0
+lobster, overweight, 0
+lobster,  HIV , 0
+lobster, heartburn, 0
+lobster, lung cancer, 0
+maize, heart attack, 0
+maize, diabetes, 0
+maize, blood pressure, 0
+maize, heart disease, 0
+maize, breast cancer, 0
+maize, obesity, 0
+maize, overweight, 0
+maize,  HIV , 0
+maize, heartburn, 0
+maize, lung cancer, 0
+mayo, heart attack, 0
+mayo, diabetes, 0
+mayo, blood pressure, 0
+mayo, heart disease, 0
+mayo, breast cancer, 0
+mayo, obesity, 0
+mayo, overweight, 0
+mayo,  HIV , 0
+mayo, heartburn, 0
+mayo, lung cancer, 0
+mango, heart attack, 0
+mango, diabetes, 1
+mango, blood pressure, 0
+mango, heart disease, 0
+mango, breast cancer, 1
+mango, obesity, 1
+mango, overweight, 0
+mango,  HIV , 0
+mango, heartburn, 0
+mango, lung cancer, 0
+melon, heart attack, 0
+melon, diabetes, 2
+melon, blood pressure, 0
+melon, heart disease, 0
+melon, breast cancer, 0
+melon, obesity, 1
+melon, overweight, 0
+melon,  HIV , 0
+melon, heartburn, 0
+melon, lung cancer, 0
+mint, heart attack, 0
+mint, diabetes, 2
+mint, blood pressure, 0
+mint, heart disease, 0
+mint, breast cancer, 0
+mint, obesity, 4
+mint, overweight, 0
+mint,  HIV , 0
+mint, heartburn, 0
+mint, lung cancer, 0
+milkshake, heart attack, 0
+milkshake, diabetes, 3
+milkshake, blood pressure, 0
+milkshake, heart disease, 0
+milkshake, breast cancer, 0
+milkshake, obesity, 2
+milkshake, overweight, 1
+milkshake,  HIV , 0
+milkshake, heartburn, 0
+milkshake, lung cancer, 0
+miso, heart attack, 0
+miso, diabetes, 0
+miso, blood pressure, 0
+miso, heart disease, 0
+miso, breast cancer, 0
+miso, obesity, 0
+miso, overweight, 0
+miso,  HIV , 0
+miso, heartburn, 0
+miso, lung cancer, 0
+nuggets, heart attack, 0
+nuggets, diabetes, 2
+nuggets, blood pressure, 0
+nuggets, heart disease, 1
+nuggets, breast cancer, 0
+nuggets, obesity, 2
+nuggets, overweight, 0
+nuggets,  HIV , 0
+nuggets, heartburn, 0
+nuggets, lung cancer, 0
+nutella, heart attack, 0
+nutella, diabetes, 0
+nutella, blood pressure, 0
+nutella, heart disease, 0
+nutella, breast cancer, 0
+nutella, obesity, 0
+nutella, overweight, 0
+nutella,  HIV , 0
+nutella, heartburn, 0
+nutella, lung cancer, 0
+olive, heart attack, 0
+olive, diabetes, 3
+olive, blood pressure, 1
+olive, heart disease, 0
+olive, breast cancer, 0
+olive, obesity, 4
+olive, overweight, 0
+olive,  HIV , 0
+olive, heartburn, 0
+olive, lung cancer, 0
+onion, heart attack, 0
+onion, diabetes, 1
+onion, blood pressure, 0
+onion, heart disease, 1
+onion, breast cancer, 0
+onion, obesity, 3
+onion, overweight, 0
+onion,  HIV , 0
+onion, heartburn, 0
+onion, lung cancer, 0
+orange, heart attack, 0
+orange, diabetes, 1
+orange, blood pressure, 0
+orange, heart disease, 0
+orange, breast cancer, 0
+orange, obesity, 1
+orange, overweight, 2
+orange,  HIV , 0
+orange, heartburn, 0
+orange, lung cancer, 0
+pancake, heart attack, 0
+pancake, diabetes, 2
+pancake, blood pressure, 0
+pancake, heart disease, 0
+pancake, breast cancer, 0
+pancake, obesity, 0
+pancake, overweight, 0
+pancake,  HIV , 0
+pancake, heartburn, 0
+pancake, lung cancer, 0
+parsley, heart attack, 0
+parsley, diabetes, 1
+parsley, blood pressure, 0
+parsley, heart disease, 0
+parsley, breast cancer, 0
+parsley, obesity, 0
+parsley, overweight, 0
+parsley,  HIV , 0
+parsley, heartburn, 0
+parsley, lung cancer, 0
+peach, heart attack, 0
+peach, diabetes, 0
+peach, blood pressure, 0
+peach, heart disease, 0
+peach, breast cancer, 0
+peach, obesity, 0
+peach, overweight, 0
+peach,  HIV , 0
+peach, heartburn, 0
+peach, lung cancer, 0
+peanut, heart attack, 0
+peanut, diabetes, 0
+peanut, blood pressure, 0
+peanut, heart disease, 0
+peanut, breast cancer, 0
+peanut, obesity, 0
+peanut, overweight, 0
+peanut,  HIV , 0
+peanut, heartburn, 0
+peanut, lung cancer, 0
+peas, heart attack, 0
+peas, diabetes, 1
+peas, blood pressure, 0
+peas, heart disease, 0
+peas, breast cancer, 0
+peas, obesity, 0
+peas, overweight, 0
+peas,  HIV , 0
+peas, heartburn, 0
+peas, lung cancer, 0
+peppermint, heart attack, 0
+peppermint, diabetes, 0
+peppermint, blood pressure, 0
+peppermint, heart disease, 0
+peppermint, breast cancer, 0
+peppermint, obesity, 0
+peppermint, overweight, 0
+peppermint,  HIV , 0
+peppermint, heartburn, 0
+peppermint, lung cancer, 0
+pepperoni, heart attack, 0
+pepperoni, diabetes, 0
+pepperoni, blood pressure, 0
+pepperoni, heart disease, 0
+pepperoni, breast cancer, 0
+pepperoni, obesity, 2
+pepperoni, overweight, 0
+pepperoni,  HIV , 0
+pepperoni, heartburn, 0
+pepperoni, lung cancer, 0
+peppers, heart attack, 0
+peppers, diabetes, 1
+peppers, blood pressure, 1
+peppers, heart disease, 0
+peppers, breast cancer, 0
+peppers, obesity, 1
+peppers, overweight, 0
+peppers,  HIV , 0
+peppers, heartburn, 0
+peppers, lung cancer, 0
+pickle, heart attack, 0
+pickle, diabetes, 0
+pickle, blood pressure, 0
+pickle, heart disease, 0
+pickle, breast cancer, 0
+pickle, obesity, 0
+pickle, overweight, 0
+pickle,  HIV , 0
+pickle, heartburn, 0
+pickle, lung cancer, 0
+pineapple, heart attack, 0
+pineapple, diabetes, 0
+pineapple, blood pressure, 0
+pineapple, heart disease, 0
+pineapple, breast cancer, 0
+pineapple, obesity, 0
+pineapple, overweight, 0
+pineapple,  HIV , 0
+pineapple, heartburn, 0
+pineapple, lung cancer, 0
+pizza, heart attack, 0
+pizza, diabetes, 0
+pizza, blood pressure, 0
+pizza, heart disease, 0
+pizza, breast cancer, 0
+pizza, obesity, 2
+pizza, overweight, 0
+pizza,  HIV , 0
+pizza, heartburn, 0
+pizza, lung cancer, 0
+plum, heart attack, 0
+plum, diabetes, 1
+plum, blood pressure, 0
+plum, heart disease, 0
+plum, breast cancer, 0
+plum, obesity, 1
+plum, overweight, 0
+plum,  HIV , 0
+plum, heartburn, 0
+plum, lung cancer, 0
+pomegranate, heart attack, 0
+pomegranate, diabetes, 0
+pomegranate, blood pressure, 1
+pomegranate, heart disease, 0
+pomegranate, breast cancer, 0
+pomegranate, obesity, 1
+pomegranate, overweight, 0
+pomegranate,  HIV , 0
+pomegranate, heartburn, 0
+pomegranate, lung cancer, 0
+potato, heart attack, 0
+potato, diabetes, 2
+potato, blood pressure, 0
+potato, heart disease, 0
+potato, breast cancer, 0
+potato, obesity, 2
+potato, overweight, 0
+potato,  HIV , 0
+potato, heartburn, 0
+potato, lung cancer, 0
+pumpkin, heart attack, 0
+pumpkin, diabetes, 1
+pumpkin, blood pressure, 0
+pumpkin, heart disease, 0
+pumpkin, breast cancer, 1
+pumpkin, obesity, 0
+pumpkin, overweight, 0
+pumpkin,  HIV , 0
+pumpkin, heartburn, 0
+pumpkin, lung cancer, 0
+raisin, heart attack, 0
+raisin, diabetes, 0
+raisin, blood pressure, 0
+raisin, heart disease, 0
+raisin, breast cancer, 0
+raisin, obesity, 1
+raisin, overweight, 1
+raisin,  HIV , 0
+raisin, heartburn, 0
+raisin, lung cancer, 0
+rocket, heart attack, 0
+rocket, diabetes, 0
+rocket, blood pressure, 0
+rocket, heart disease, 0
+rocket, breast cancer, 0
+rocket, obesity, 2
+rocket, overweight, 0
+rocket,  HIV , 0
+rocket, heartburn, 0
+rocket, lung cancer, 0
+ rum , heart attack, 0
+ rum , diabetes, 0
+ rum , blood pressure, 0
+ rum , heart disease, 0
+ rum , breast cancer, 0
+ rum , obesity, 0
+ rum , overweight, 0
+ rum ,  HIV , 0
+ rum , heartburn, 0
+ rum , lung cancer, 0
+salad, heart attack, 0
+salad, diabetes, 0
+salad, blood pressure, 0
+salad, heart disease, 0
+salad, breast cancer, 0
+salad, obesity, 0
+salad, overweight, 0
+salad,  HIV , 0
+salad, heartburn, 0
+salad, lung cancer, 0
+salsa, heart attack, 0
+salsa, diabetes, 0
+salsa, blood pressure, 0
+salsa, heart disease, 0
+salsa, breast cancer, 0
+salsa, obesity, 0
+salsa, overweight, 0
+salsa,  HIV , 0
+salsa, heartburn, 0
+salsa, lung cancer, 0
+sausage, heart attack, 0
+sausage, diabetes, 1
+sausage, blood pressure, 1
+sausage, heart disease, 0
+sausage, breast cancer, 0
+sausage, obesity, 0
+sausage, overweight, 0
+sausage,  HIV , 0
+sausage, heartburn, 0
+sausage, lung cancer, 0
+salmon, heart attack, 0
+salmon, diabetes, 2
+salmon, blood pressure, 0
+salmon, heart disease, 0
+salmon, breast cancer, 0
+salmon, obesity, 2
+salmon, overweight, 0
+salmon,  HIV , 0
+salmon, heartburn, 0
+salmon, lung cancer, 0
+seaweed, heart attack, 0
+seaweed, diabetes, 0
+seaweed, blood pressure, 0
+seaweed, heart disease, 0
+seaweed, breast cancer, 0
+seaweed, obesity, 1
+seaweed, overweight, 0
+seaweed,  HIV , 0
+seaweed, heartburn, 0
+seaweed, lung cancer, 0
+sesame, heart attack, 0
+sesame, diabetes, 1
+sesame, blood pressure, 0
+sesame, heart disease, 0
+sesame, breast cancer, 0
+sesame, obesity, 0
+sesame, overweight, 0
+sesame,  HIV , 0
+sesame, heartburn, 0
+sesame, lung cancer, 0
+soda, heart attack, 0
+soda, diabetes, 1
+soda, blood pressure, 0
+soda, heart disease, 0
+soda, breast cancer, 0
+soda, obesity, 3
+soda, overweight, 1
+soda,  HIV , 0
+soda, heartburn, 0
+soda, lung cancer, 0
+soybean, heart attack, 0
+soybean, diabetes, 2
+soybean, blood pressure, 0
+soybean, heart disease, 2
+soybean, breast cancer, 0
+soybean, obesity, 2
+soybean, overweight, 0
+soybean,  HIV , 1
+soybean, heartburn, 0
+soybean, lung cancer, 0
+spinach, heart attack, 0
+spinach, diabetes, 0
+spinach, blood pressure, 0
+spinach, heart disease, 1
+spinach, breast cancer, 0
+spinach, obesity, 1
+spinach, overweight, 0
+spinach,  HIV , 0
+spinach, heartburn, 0
+spinach, lung cancer, 0
+squash, heart attack, 0
+squash, diabetes, 0
+squash, blood pressure, 0
+squash, heart disease, 0
+squash, breast cancer, 0
+squash, obesity, 1
+squash, overweight, 0
+squash,  HIV , 0
+squash, heartburn, 0
+squash, lung cancer, 0
+strawberry, heart attack, 0
+strawberry, diabetes, 0
+strawberry, blood pressure, 0
+strawberry, heart disease, 0
+strawberry, breast cancer, 0
+strawberry, obesity, 0
+strawberry, overweight, 1
+strawberry,  HIV , 0
+strawberry, heartburn, 0
+strawberry, lung cancer, 0
+sweetcorn, heart attack, 0
+sweetcorn, diabetes, 0
+sweetcorn, blood pressure, 0
+sweetcorn, heart disease, 0
+sweetcorn, breast cancer, 0
+sweetcorn, obesity, 0
+sweetcorn, overweight, 0
+sweetcorn,  HIV , 0
+sweetcorn, heartburn, 0
+sweetcorn, lung cancer, 0
+tofu, heart attack, 0
+tofu, diabetes, 0
+tofu, blood pressure, 0
+tofu, heart disease, 0
+tofu, breast cancer, 0
+tofu, obesity, 1
+tofu, overweight, 0
+tofu,  HIV , 0
+tofu, heartburn, 0
+tofu, lung cancer, 0
+tomatillo, heart attack, 0
+tomatillo, diabetes, 0
+tomatillo, blood pressure, 0
+tomatillo, heart disease, 0
+tomatillo, breast cancer, 0
+tomatillo, obesity, 0
+tomatillo, overweight, 0
+tomatillo,  HIV , 0
+tomatillo, heartburn, 0
+tomatillo, lung cancer, 0
+tomato, heart attack, 0
+tomato, diabetes, 3
+tomato, blood pressure, 0
+tomato, heart disease, 1
+tomato, breast cancer, 0
+tomato, obesity, 3
+tomato, overweight, 0
+tomato,  HIV , 0
+tomato, heartburn, 0
+tomato, lung cancer, 0
+vegetable, heart attack, 1
+vegetable, diabetes, 6
+vegetable, blood pressure, 3
+vegetable, heart disease, 5
+vegetable, breast cancer, 2
+vegetable, obesity, 9
+vegetable, overweight, 2
+vegetable,  HIV , 0
+vegetable, heartburn, 0
+vegetable, lung cancer, 1
+waffles, heart attack, 0
+waffles, diabetes, 0
+waffles, blood pressure, 0
+waffles, heart disease, 0
+waffles, breast cancer, 0
+waffles, obesity, 0
+waffles, overweight, 0
+waffles,  HIV , 0
+waffles, heartburn, 0
+waffles, lung cancer, 0
+wine, heart attack, 0
+wine, diabetes, 2
+wine, blood pressure, 0
+wine, heart disease, 0
+wine, breast cancer, 0
+wine, obesity, 5
+wine, overweight, 0
+wine,  HIV , 0
+wine, heartburn, 0
+wine, lung cancer, 0
+zucchini, heart attack, 0
+zucchini, diabetes, 0
+zucchini, blood pressure, 0
+zucchini, heart disease, 0
+zucchini, breast cancer, 0
+zucchini, obesity, 0
+zucchini, overweight, 0
+zucchini,  HIV , 0
+zucchini, heartburn, 0
+zucchini, lung cancer, 0

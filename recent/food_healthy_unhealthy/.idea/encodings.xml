@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/clean_training_data/final.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/duplicate_remove.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ex/1" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ex/clean_emojis_healthy_tweets.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/file_length.py" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/food_list_lexicon.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ijcai/dataset/dup_tweets_unhealthy.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/ijcai/dataset/food_tweets.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/training_data/tweet_text_healthy.txt" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
